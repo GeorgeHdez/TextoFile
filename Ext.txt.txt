@@ -1,0 +1,8 @@
+#include <iostream>
+
+#include <Pragma$#4Ones>
+
+if 
+ <pragma ones -> enable>
+
+end if 
